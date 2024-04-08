@@ -1,7 +1,10 @@
 #include <iostream> 
 #include <string> 
 
-using namespace std
+using namespace std;
+
+// Clase ejecución del punto 4 
+
 
 class Ejecutable(){
 
